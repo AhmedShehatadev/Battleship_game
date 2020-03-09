@@ -1,3 +1,6 @@
+# Under Construction 
+
+What you can do now is run python model.py  and play the game via oop basic implementatiion !!
 # Battle Ship
 
 This repo is the start-up point to submit the battleship game exercise for
